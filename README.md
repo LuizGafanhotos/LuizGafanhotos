@@ -1,5 +1,5 @@
 ### Olá, eu me chamo Luiz Fabiano Silva Samuel 👋
-Eu sou um pessoa que ama programação, sou iniciante em programação e em desenvolvimento Web,Mobile e Desktop. Aqui eu posto todos meus projetos no qual eu pratico, e pratico muito até, só não sei de uns frameworks ;) mas um dia eu irei chegar nesse nível também 
+Eu sou um pessoa que ama programação, sou iniciante em programação e em desenvolvimento Web,Mobile,Desktop e de desenvolvimento de games. Aqui eu posto todos meus projetos no qual eu pratico, e pratico muito até, só não sei de uns frameworks ;) mas um dia eu irei chegar nesse nível também 
 
 ### Redes Sociais:
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> __Nada por enquanto__ <br>
