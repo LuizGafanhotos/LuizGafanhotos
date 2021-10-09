@@ -1,6 +1,7 @@
 # < Olá, programadores 🖐️/> 
 - 🌍 Desenvolvedor web
-- 💻 Programador Iniciante
+- 🖥️ Desenvolvedor desktop
+- <💻/> Programador Iniciante
 
 ## Pelo amor do *7 corno 🐮* , quem sou eu??
 Meu nome é Luiz Fabiano Silva, eu tenho 15 anos, Sou de campina Grande, eu sou um desenvolvedor web, programador e trabalho na area de TI
