@@ -3,8 +3,8 @@
 - 🖥️ Desenvolvedor desktop
 - <💻/> Programador Iniciante
 
-## Pelo amor do *7 corno 🐮* , quem sou eu??
-Meu nome é Luiz Fabiano Silva, eu tenho 15 anos, Sou de campina Grande, eu sou um desenvolvedor web, programador e trabalho na area de TI
+## Quem sou eu??
+Meu nome é **Luiz Fabiano Silva**, eu tenho 15 anos, Sou de campina Grande, eu sou um desenvolvedor web, programador e trabalho na area de TI
 Seu de muitas linguagens, e eu sempre quis entrar em uma área como essa, eu tenho esse repositório base, como um "google drive" da vida, em que eu
 guardo meus arquivos, projetos aqui
 
