@@ -1,7 +1,7 @@
 # < Olá, programadores 🖐️/> 
 - 🌍 Desenvolvedor web
 - 🖥️ Desenvolvedor desktop
-- <💻/> Programador Iniciante
+- <💻/> Programador Experiente
 
 ## Quem sou eu??
 Meu nome é **Luiz Fabiano Silva**, eu tenho 15 anos, Sou de campina Grande, eu sou um desenvolvedor web, programador e trabalho na area de TI,
@@ -42,6 +42,8 @@ guardo meus arquivos, projetos aqui.
 
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
+# Linguagens mais utilizadas
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Snake animation](https://github.com/joaotuliojt/joaotuliojt/blob/output/github-contribution-grid-snake.svg)
 
